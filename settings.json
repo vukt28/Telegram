@@ -1,0 +1,48 @@
+{
+    "settings": {
+        "bot_api": "7521898090:AAF8iPA5ff34gqNm4jjPUOtToUYefs",
+        "mt5_path": "C:\\\\MT\\\\MT5-1\\\\terminal64.exe",
+        "check_interval": 600
+    },
+    "users": {
+        "2041162461": {
+            "name": "Trung",
+            "notify_threshold": 10,
+            "accounts": [
+                {
+                    "username": "272334180",
+                    "password": "k3g5hggfx9cIj6j)",
+                    "server": "RoboForex-Pro",
+                    "account_type": "USD",
+                    "nickname": "Da Dieu Robo 1"
+                }
+            ]
+        },
+        "461485180": {
+            "name": "Toan",
+            "notify_threshold": 7,
+            "accounts": [
+                {
+                    "username": "1591444799",
+                    "password": "k3g5hggfx9cIj6j)",
+                    "server": "Exness-MT5Real20",
+                    "account_type": "Cent",
+                    "nickname": "Cent1k6_1"
+                }
+            ]
+        },
+        "1912680319": {
+            "name": "Khanh",
+            "notify_threshold": 10,
+            "accounts": [
+                {
+                    "username": "1591240858",
+                    "password": "k3g5hggfx9cIj6j)",
+                    "server": "Exness-MT5Real20",
+                    "account_type": "Cent",
+                    "nickname": "K1"
+                }
+            ]
+        }
+    }
+}
